@@ -17,6 +17,9 @@
  */
 
 let numeroGatos = 10;
+let proximaPareja = "John";
+let dreamCountry = "Sweden";
+let dreamJob = "CEO"
 
-let futuro = "tendréis " + numeroGatos + " gatos";
+let futuro = "Tú estarás en " + dreamCountry + " trabajando de " + dreamJob + " y tu pareja será " + proximaPareja + " y tendréis " + numeroGatos + " gatos";
 console.log(futuro);
